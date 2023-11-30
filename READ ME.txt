@@ -1,0 +1,12 @@
+Dentro desta pasta contém programas sobre
+a execução das aplicações do museu, sendo:
+Questionários sobre a Evolução Tecnológica,
+150 anos de Santos Dumont, 100 anos da Semana
+da Arte Moderna e Olipíadas de Paris 2024,
+Programas da Bilheteria e de Avaliação Geral.
+
+Todos os programas armazenam os dados, respeitando
+a Lei Geral de Proteção de Dados (LGPD), em um 
+arquivo tanto em formato .txt como em formato .csv
+para podermos avaliar de como melhorar tanto em
+infraestrutura, obras, etc.
